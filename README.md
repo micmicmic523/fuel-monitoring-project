@@ -38,6 +38,3 @@ The firmware processes the analog signal using the following steps:
 ## 💻 Tech Stack
 * **Language:** C++ (Arduino Framework)
 * **Libraries:** `DallasTemperature`, `RTClib`, `WiFi`, `OneWire`
-
----
-*Developed by [Nama Kamu]*
