@@ -1,6 +1,3 @@
-# fuel-monitoring-project
-ESP32-based fuel monitoring system.
-
 # ⛽ IoT Fuel Purity Monitoring System
 
 An intelligent IoT device capable of detecting fuel purity (Gasoline/Pertamax) based on gas concentration analysis. This project utilizes signal processing algorithms to ensure accurate readings and features real-time clock synchronization via NTP.
